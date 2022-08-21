@@ -1,5 +1,5 @@
 # Team members
-Ruijia Cao, Julia Grigni, Kurt Hu, Mah Tej Rella, and Scott Schaefer
+Ruijia Cao, Julia Grigni, Kurt Hu, Sriram Teja Rella, and Scott Schaefer
 
 # Proposal
 
